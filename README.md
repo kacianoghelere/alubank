@@ -1,16 +1,6 @@
 # alubank
+Reprodução de layout de app do Figma
 
-Mockup de interface de app bancário
+[Layout do Figma](https://www.figma.com/design/qmOZR81uY7gb8I0wMLUFCu/Alubank)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/30821390-5d4e-4297-9b19-604f0bc0e8a5)
